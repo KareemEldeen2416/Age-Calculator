@@ -7,8 +7,8 @@ you get the result shown by labels.
 
 ## Skills
 
--HTML
--CSS
-_JavaScript
+-[HTML]
+-[CSS]
+-[JavaScript]
 
 
