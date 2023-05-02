@@ -57,10 +57,11 @@ conversionButton.addEventListener('click' , ()=>{
         validList[2].classList.remove("Invalid");
     }
 
+  
 
 
 
-    if ( valid1 && valid2 && valid3){
+    if ( valid1== true && valid2 == true && valid3 == true){
 
     if(month < monthNumber){
         finalYear = year - yearNumber -1;
@@ -83,11 +84,8 @@ conversionButton.addEventListener('click' , ()=>{
         finalDay = (finalMonth*30) + day;
     }
     
-    
-    
     labelsList[0].innerText = finalYear;
     labelsList[1].innerText = finalMonth;
     labelsList[2].innerText = finalDay;
-
    }
 });
