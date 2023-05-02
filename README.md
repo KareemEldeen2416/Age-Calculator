@@ -7,8 +7,14 @@ you get the result shown by labels.
 
 ## Skills
 
+<<<<<<< HEAD
 -HTML
 -CSS
 -JavaScript
+=======
+-[HTML]
+-[CSS]
+-[JavaScript]
+>>>>>>> b079400b8ae6c314a0d4403bce2ef22d5285ce98
 
 
