@@ -9,6 +9,6 @@ you get the result shown by labels.
 
 -HTML
 -CSS
-_JavaScript
+-JavaScript
 
 
